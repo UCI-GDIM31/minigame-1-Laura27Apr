@@ -53527,10 +53527,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 55919ac34a26952479f3fc91f777b2fa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MoveSpeed: 5
-  SprintSpeed: 4
+  MoveSpeed: 3
+  SprintSpeed: 3
   RotationSpeed: 1
-  SpeedChangeRate: 10
+  SpeedChangeRate: 8
   JumpHeight: 1.2
   Gravity: -15
   JumpTimeout: 0.1
